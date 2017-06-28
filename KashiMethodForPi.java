@@ -5,7 +5,7 @@
  * Computer Exercise: 1.2 (handout)
  *
  * @author - Eric Schenck
- * last modified: June 30, 2017
+ * last modified: June 29, 2017
  *   
  */
 
